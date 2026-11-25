@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.form {
+  border: 1px solid #000;
+  width: 300px;
+  padding-right: 20px;
+  border-radius: 12px;
+}
+.h2 {
+  margin-left: 5px;
+}
+.group {
+  padding-left: 3px;
+  border: none;
+  display: block;
+  width: 270px;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+.lable1 {
+  margin-bottom: 15px;
+}
+.x {
+  resize: vertical;
+  width: 270px;
+  max-height: 170px;
+}
+.checkbox {
+  cursor: pointer;
+}
+.button {
+  border: none;
+  margin-left: 5px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
